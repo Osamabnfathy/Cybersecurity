@@ -11,4 +11,6 @@
 2. [CompTia Network+ "English"](https://youtube.com/playlist?list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G) OR [CompTIA Network+ "Arabic"](https://youtube.com/playlist?list=PLH-n8YK76vIiuIZoWvHL7AvtrDV7hR3He)
 3. [CCNA Arabic](https://youtube.com/playlist?list=PLu09YdBTOGiFp9XlbbhC9Vju-TtqeSG_l) OR [CCNA English](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
 4. [CompTia Security+ (SY0-601)](https://netriders.academy/courses/security/)
-5. [Linux](https://youtube.com/playlist?list=PLDRMxi70CdSD48OPJbsDZRt4l0GvWJ2iG) OR [CompTia Linux+](https://youtube.com/playlist?list=PLhgvoVxtpsW6tl-QKDz167pzPVI-Y_lDO) OR [Linux for Hackers](https://youtube.com/playlist?list=PLBf0hzazHTGMh2fe2MFf3lCgk0rKmS2by)
+5. [Linux](https://youtube.com/playlist?list=PLDRMxi70CdSD48OPJbsDZRt4l0GvWJ2iG) OR [Linux for Hackers](https://youtube.com/playlist?list=PLBf0hzazHTGMh2fe2MFf3lCgk0rKmS2by) OR [Cybertalents Linux](https://cybertalents.com/learn/linux-essentials)
+6. [Windows Server](https://youtube.com/playlist?list=PLdWx9r2CgK7ActEDCBe_-tojDG5T4AHXK&feature=shared)
+7. [ejpt V1](https://netriders.academy/courses/penetration-testing-student/)
